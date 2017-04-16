@@ -1,0 +1,45 @@
+body {
+  font-family: "Helvetica";
+  text-align: center;
+}
+
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+
+.background {
+  background-image: url('../images/image.png');
+}
+
+a {
+  color: white;
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+#About p {
+  font-size: 14px;
+}
+
+h4 {
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+}
+
+.end {
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+  text-align: left;
+}
